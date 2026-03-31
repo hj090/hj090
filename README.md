@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <a href="https://makeithappen.tistory.com/">
     <img src="https://img.shields.io/badge/https://hyoju-makeithappen.tistory.com/?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
-  <a href="mailto:limhyoju09@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://makeithappen.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
 </p>
 
