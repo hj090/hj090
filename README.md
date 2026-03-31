@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyojuim0509)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hyoju-makeithappen.tistory.com/)
-![Email](https://img.shields.io/badge/Gmail-hyojuuu@sookmyung.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-hyojuuu@sookmyung.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
