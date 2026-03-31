@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hyoju%20Im&fontSize=50&fontAlignY=40)
 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=F6C6EA&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontColor=5A3E36&fontSize=40)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
