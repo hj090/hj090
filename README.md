@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
   <a href="mailto:limhyoju09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-limhyoju09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
