@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 <h3> ✨Projects </h3>
---
+-
 <table>
   <tr>
     <th width="20%">프로젝트</th>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
   <tr>
     <td><a href="#">LSTM prediction model</a></td>
-    <td>z클라우드 환경에서의 NASA 시계열 데이터 기반 웹서버 로그 예측 모델</td>
+    <td>클라우드 환경에서의 NASA 시계열 데이터 기반 웹서버 로그 예측 모델</td>
     <td>2025.00 ~ 2025.00</td>
     <td> .. </td>
   </tr>
