@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 <h3> ✨Projects </h3>
--
+<hr>
 <table>
   <tr>
     <th width="20%">프로젝트</th>
