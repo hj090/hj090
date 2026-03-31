@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hyoju%20Im&fontSize=50&fontAlignY=40)
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
