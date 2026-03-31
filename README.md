@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C7F9CC,100:80ED99&height=220&section=header&text=Welcome%20to%20Hyoju%27s%20Github!🍀&fontSize=35&fontAlignY=40&fontFace=Inter&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:CDEFD6,50:9EE493,100:6BCB77&height=220&section=header&text=Welcome%20to%20Hyoju%27s%20Github!🍀&fontSize=35&fontAlignY=40&fontFace=Inter&fontColor=ffffff)
 
 <h4 align="center">📬 Contact</h4>
 
