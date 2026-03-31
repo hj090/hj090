@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6C6EA,100:A8B2FF&height=220&section=header&text=Welcome%20to%20Hyoju%27s%20Github!☺️&fontSize=35&fontAlignY=40&fontFace=Inter&fontColor=ffffff)
 
-## 📫 Contact
+📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyojuim0509)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hyoju-makeithappen.tistory.com/)
