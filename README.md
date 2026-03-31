@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6C6EA,100:A8B2FF&height=220&section=header&text=Welcome%20to%20Hyoju%27s%20Github!☺️&fontSize=35&fontAlignY=40&fontFace=Inter&fontColor=ffffff)
 
-<h2 align="center">📬 Contact</h2>
+<h4 align="center">📬 Contact</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hyojuim0509">
