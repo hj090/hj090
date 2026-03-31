@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F6C6EA,100:A8B2FF&height=220&section=header&text=Welcome%20to%20Hyoju%27s%20Github!☺️&fontSize=35&fontAlignY=40&fontFace=Inter&fontColor=ffffff)
 
-📫 Contact
+<h2 align="center">📬 Contact</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyojuim0509)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hyoju-makeithappen.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limhyoju09@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hyojuim0509">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://makeithappen.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+  <a href="mailto:limhyoju09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-limhyoju09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+---
