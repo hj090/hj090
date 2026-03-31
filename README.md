@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Contact
 <p align="center">
-  <a href="[https://www.linkedin.com/in/%ED%9A%A8%EC%A3%BC-%EC%9E%84-607a0a383/?isSelfProfile=true">
+  <a href="[https://www.linkedin.com/in/hyojuim0509">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hyoju-makeithappen.tistory.com/">
