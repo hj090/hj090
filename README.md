@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> ✨Projects </h3>
+<h3  align="center">✨Projects </h3>
 <br>
 <table>
   <tr>
