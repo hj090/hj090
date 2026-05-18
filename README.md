@@ -41,6 +41,13 @@ Here are some ideas to get you started:
     <th width="20%">참고</th>
   </tr>
 
+<tr>
+    <td><a href="#">SafePose</a></td>
+    <td>SSG 캠퍼스</td>
+    <td>2025.05.16</td>
+    <td> .. </td>
+  </tr>
+
   <tr>
     <td><a href="#">SafePose</a></td>
     <td>CNN기반 정신질환자 낙상사고 예측모델</td>
