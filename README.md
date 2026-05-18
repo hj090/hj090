@@ -51,21 +51,21 @@ Here are some ideas to get you started:
   <tr>
     <td><a href="#">SafePose</a></td>
     <td>CNN기반 정신질환자 낙상사고 예측모델</td>
-    <td>2025.00 ~ 2025.00</td>
-    <td> .. </td>
+    <td>2025년 상반기 프로젝트</td>
+    <td> 오픈소스프로그래밍 </td>
   </tr>
 
   <tr>
     <td><a href="#">LSTM prediction model</a></td>
     <td>클라우드 환경에서의 NASA 시계열 데이터 기반 웹서버 로그 예측 모델</td>
-    <td>2025.00 ~ 2025.00</td>
+    <td>2026년 02월</td>
     <td> .. </td>
   </tr>
 
   <tr>
     <td><a href="#">O_Museum</a></td>
     <td>국립중앙박물관 웹사이트 사용자 친화적 리뉴얼 프로젝트</td>
-    <td>2025.00 ~ 2025.0</td>
+    <td>2025년 하반기 프로젝트</td>
     <td> .. </td>
   </tr>
 </table>
