@@ -44,7 +44,14 @@ Here are some ideas to get you started:
 <tr>
     <td><a href="#">Kirothon</a></td>
     <td>SSG 캠퍼스 : AI 기반 개인 맞춤형 대외활동 추천 에이전트 서비스</td>
-    <td>2025.05.16</td>
+    <td>2026.05.16</td>
+    <td>🏆AWS | NxtCloud 해커톤 최우수상 수상 </td>
+  </tr>
+
+  <tr>
+    <td><a href="#">RE:FILL</a></td>
+    <td>처방전 사진 기반 개인형 맞춤 영양 추천 시스템</td>
+    <td>2026.05.17 - 2026. 05.23</td>
     <td>🏆AWS | NxtCloud 해커톤 최우수상 수상 </td>
   </tr>
 
@@ -58,14 +65,14 @@ Here are some ideas to get you started:
   <tr>
     <td><a href="#">LSTM prediction model</a></td>
     <td>클라우드 환경에서의 NASA 시계열 데이터 기반 웹서버 로그 예측 모델</td>
-    <td>2026년 02월</td>
+    <td>2026.02</td>
     <td> .. </td>
   </tr>
 
   <tr>
     <td><a href="#">O_Museum</a></td>
     <td>국립중앙박물관 웹사이트 사용자 친화적 리뉴얼 프로젝트</td>
-    <td>2025년 하반기 프로젝트</td>
+    <td>2025.09 - 2025.11</td>
     <td> .. </td>
   </tr>
 </table>
