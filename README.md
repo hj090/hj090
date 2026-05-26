@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 <tr>
     <td><a href="#">Kirothon</a></td>
-    <td>SSG 캠퍼스</td>
+    <td>SSG 캠퍼스 : AI 기반 개인 맞춤형 대외활동 추천 에이전트 서비스</td>
     <td>2025.05.16</td>
-    <td> AI 기반 개인 맞춤형 대외활동 추천 에이전트 서비스 </td>
+    <td>🏆AWS | NxtCloud 해커톤 최우수상 수상 </td>
   </tr>
 
   <tr>
