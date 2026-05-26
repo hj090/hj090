@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
   <tr>
     <td><a href="#">RE:FILL</a></td>
-    <td>처방전 사진 기반 개인형 맞춤 영양 추천 시스템</td>
+    <td>처방전 사진 기반 개인형 맞춤 영양 추천 AI 서비스</td>
     <td>2026.05.17 - 2026. 05.23</td>
-    <td>🏆AWS | NxtCloud 해커톤 최우수상 수상 </td>
+    <td> AI Low-coding 대회 출품 / Upstage 제품군 사용 </td>
   </tr>
 
   <tr>
